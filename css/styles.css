@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #cedebd;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.head {
+  font-size: 1.5rem;
+}
+
+.text {
+  background-color: #3b6978;
+  color: #cedebd;
+  font-family: 'Roboto', sans-serif;
+  padding: 20px;
+  line-height: 1.8;
+}
+
+.heading {
+  margin: 10px 0 30px;
+}
