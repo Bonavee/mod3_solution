@@ -26,3 +26,7 @@ h1, h2, h3 {
 .heading {
   margin: 10px 0 30px;
 }
+
+center {
+  padding-top: 10px;
+}
